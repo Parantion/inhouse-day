@@ -1,0 +1,142 @@
+[
+  {
+    "userId": 1,
+    "firstname": "Anne",
+    "lastname": "de Vries",
+    "questionName": "35qj2nmec",
+    "answer": 20
+  },
+  {
+    "userId": 1,
+    "firstname": "Anne",
+    "lastname": "de Vries",
+    "questionName": "3zbs27knv",
+    "answer": "Deventer"
+  },
+  {
+    "userId": 1,
+    "firstname": "Anne",
+    "lastname": "de Vries",
+    "questionName": "48z85ps58",
+    "answer": "19-12-1967"
+  },
+  {
+    "userId": 1,
+    "firstname": "Anne",
+    "lastname": "de Vries",
+    "questionName": "4mggznqwr",
+    "answer": "22:30"
+  },
+  {
+    "userId": 2,
+    "firstname": "Tim",
+    "lastname": "van den Berg",
+    "questionName": "4pcrddx55",
+    "answer": "69r3sz3h4"
+  },
+  {
+    "userId": 2,
+    "firstname": "Tim",
+    "lastname": "van den Berg",
+    "questionName": "a5k6wj8nf",
+    "answer": "9-6-2019"
+  },
+  {
+    "userId": 2,
+    "firstname": "Tim",
+    "lastname": "van den Berg",
+    "questionName": "9tr82mm9j",
+    "answer": "5-5-1980"
+  },
+  {
+    "userId": 2,
+    "firstname": "Tim",
+    "lastname": "van den Berg",
+    "questionName": "7dmntkcpf",
+    "answer": "p8t38kc5y"
+  },
+  {
+    "userId": 3,
+    "firstname": "Laura",
+    "lastname": "Jansen",
+    "questionName": "3zbs27knv",
+    "answer": "Deventer"
+  },
+  {
+    "userId": 3,
+    "firstname": "Laura",
+    "lastname": "Jansen",
+    "questionName": "74cfb3dpg",
+    "answer": "8fc2d53829ae2cd50e0a5fd3e0888b20"
+  },
+  {
+    "userId": 3,
+    "firstname": "Laura",
+    "lastname": "Jansen",
+    "questionName": "5g7wtrez3",
+    "answer": 20
+  },
+  {
+    "userId": 3,
+    "firstname": "Laura",
+    "lastname": "Jansen",
+    "questionName": "35qj2nmec",
+    "answer": 2
+  },
+  {
+    "userId": 4,
+    "firstname": "Max",
+    "lastname": "Dekker",
+    "questionName": "5x6n9efj5",
+    "answer": "12-12-2001"
+  },
+  {
+    "userId": 4,
+    "firstname": "Max",
+    "lastname": "Dekker",
+    "questionName": "6rnma3arz",
+    "answer": "Ojax6h"
+  },
+  {
+    "userId": 4,
+    "firstname": "Max",
+    "lastname": "Dekker",
+    "questionName": "3zbs27knv",
+    "answer": "Apeldoorn"
+  },
+  {
+    "userId": 4,
+    "firstname": "Max",
+    "lastname": "Dekker",
+    "questionName": "74cfb3dpg",
+    "answer": "423698d63a479ec9d79db459d19eb369"
+  },
+  {
+    "userId": 5,
+    "firstname": "Lieke",
+    "lastname": "Mulder",
+    "questionName": "4zqwtv34j",
+    "answer": "Lieke"
+  },
+  {
+    "userId": 5,
+    "firstname": "Lieke",
+    "lastname": "Mulder",
+    "questionName": "3zbs27knv",
+    "answer": "Groningen"
+  },
+  {
+    "userId": 5,
+    "firstname": "Lieke",
+    "lastname": "Mulder",
+    "questionName": "5g7wtrez3",
+    "answer": 42
+  },
+  {
+    "userId": 5,
+    "firstname": "Lieke",
+    "lastname": "Mulder",
+    "questionName": "6rnma3arz",
+    "answer": "O8vs6p"
+  }
+]
